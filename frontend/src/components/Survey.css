@@ -1,0 +1,46 @@
+.header {
+  background: #f0f2f5;
+  text-align: center;
+  padding: 10px 0;
+}
+
+.content {
+  padding: 20px;
+  background: #fff;
+}
+
+.question {
+  margin-bottom: 20px;
+}
+
+.sider {
+  background: #f0f2f5;
+  padding: 20px;
+}
+
+.question-nav {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+  margin-top: 20px;
+}
+
+.nav-button {
+  width: 40px;
+  height: 40px;
+}
+
+.nav-button.active {
+  background-color: #1890ff;
+  color: #fff;
+}
+
+.submit-button {
+  margin-top: 20px;
+  width: 100%;
+}
+
+.radio-group {
+  display: flex;
+  flex-direction: column;
+} 
